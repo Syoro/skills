@@ -1,9 +1,9 @@
+
 # Skills
 
 My reusable skills for Codex and other AI coding agents.
 
-简体中文 | [English](#english)
-
+[简体中文](#%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) | [English](#english)
 ## 简体中文
 
 ### [plan-doc-map](./plan-doc-map/SKILL.md)
